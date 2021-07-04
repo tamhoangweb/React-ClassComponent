@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mark",
+    "phone": "0909999999",
+    "Permission": 1
+  },
+  {
+    "id": 2,
+    "name": "Gauberg",
+    "phone": "0909999900",
+    "Permission": 2
+  },
+  {
+    "id": 3,
+    "name": "Jobs",
+    "phone": "0909999911",
+    "Permission": 3
+  },
+  {
+    "id": 4,
+    "name": "Lauley",
+    "phone": "0909999922",
+    "Permission": 3
+  },
+  {
+    "id": 5,
+    "name": "Sineen",
+    "phone": "0909999933",
+    "Permission": 2
+  }
+]
